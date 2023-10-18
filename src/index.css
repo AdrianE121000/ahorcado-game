@@ -1,0 +1,34 @@
+.palabra {
+    display: flex;
+}
+
+.palo {
+    margin: 2px;
+    border-bottom: 1px solid black;
+    width: 32px;
+    height: 45px;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.botones button {
+    margin: 5px;
+    padding: 5px 0;
+    font-size: 1.3em;
+    background-color: white;
+    border: 1px dashed black;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 35px;
+    user-select: none;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+}
+
+.imagen {
+    width: 160px;
+    margin: 20px auto;
+}
