@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.c04eab7c.css",
-    "main.js": "/static/js/main.6e6ee844.js",
-    "static/media/el_ahorcado6.png": "/static/media/el_ahorcado6.e880a63a06467f2df387.png",
-    "static/media/el_ahorcado5.png": "/static/media/el_ahorcado5.29101eca0aae634c70c0.png",
-    "static/media/el_ahorcado4.png": "/static/media/el_ahorcado4.6cbbfc6a59bfe4321dc7.png",
-    "static/media/el_ahorcado3.png": "/static/media/el_ahorcado3.1b08c584d5aa7e658554.png",
-    "static/media/el_ahorcado2.png": "/static/media/el_ahorcado2.c3b35ddfc79a9b86b69e.png",
-    "static/media/el_ahorcado1.png": "/static/media/el_ahorcado1.af13960496d75fc667e1.png",
-    "index.html": "/index.html",
-    "main.c04eab7c.css.map": "/static/css/main.c04eab7c.css.map",
-    "main.6e6ee844.js.map": "/static/js/main.6e6ee844.js.map"
+    "main.css": "/ahorcadogame/build/static/css/main.c04eab7c.css",
+    "main.js": "/ahorcadogame/build/static/js/main.78e6fd45.js",
+    "static/media/el_ahorcado6.png": "/ahorcadogame/build/static/media/el_ahorcado6.e880a63a06467f2df387.png",
+    "static/media/el_ahorcado5.png": "/ahorcadogame/build/static/media/el_ahorcado5.29101eca0aae634c70c0.png",
+    "static/media/el_ahorcado4.png": "/ahorcadogame/build/static/media/el_ahorcado4.6cbbfc6a59bfe4321dc7.png",
+    "static/media/el_ahorcado3.png": "/ahorcadogame/build/static/media/el_ahorcado3.1b08c584d5aa7e658554.png",
+    "static/media/el_ahorcado2.png": "/ahorcadogame/build/static/media/el_ahorcado2.c3b35ddfc79a9b86b69e.png",
+    "static/media/el_ahorcado1.png": "/ahorcadogame/build/static/media/el_ahorcado1.af13960496d75fc667e1.png",
+    "index.html": "/ahorcadogame/build/index.html",
+    "main.c04eab7c.css.map": "/ahorcadogame/build/static/css/main.c04eab7c.css.map",
+    "main.78e6fd45.js.map": "/ahorcadogame/build/static/js/main.78e6fd45.js.map"
   },
   "entrypoints": [
     "static/css/main.c04eab7c.css",
-    "static/js/main.6e6ee844.js"
+    "static/js/main.78e6fd45.js"
   ]
 }
