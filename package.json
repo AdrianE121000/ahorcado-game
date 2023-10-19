@@ -2,6 +2,7 @@
   "name": "proyecto",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://adriane121000.github.io/ahorcadogame/build",
   "dependencies": {
     "@mui/material": "^5.14.14",
     "@testing-library/jest-dom": "^5.16.4",
