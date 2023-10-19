@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ahorcado-game/static/css/main.c04eab7c.css",
-    "main.js": "/ahorcado-game/static/js/main.9cc1285d.js",
-    "static/media/el_ahorcado6.png": "/ahorcado-game/static/media/el_ahorcado6.e880a63a06467f2df387.png",
-    "static/media/el_ahorcado5.png": "/ahorcado-game/static/media/el_ahorcado5.29101eca0aae634c70c0.png",
-    "static/media/el_ahorcado4.png": "/ahorcado-game/static/media/el_ahorcado4.6cbbfc6a59bfe4321dc7.png",
-    "static/media/el_ahorcado3.png": "/ahorcado-game/static/media/el_ahorcado3.1b08c584d5aa7e658554.png",
-    "static/media/el_ahorcado2.png": "/ahorcado-game/static/media/el_ahorcado2.c3b35ddfc79a9b86b69e.png",
-    "static/media/el_ahorcado1.png": "/ahorcado-game/static/media/el_ahorcado1.af13960496d75fc667e1.png",
-    "index.html": "/ahorcado-game/index.html",
-    "main.c04eab7c.css.map": "/ahorcado-game/static/css/main.c04eab7c.css.map",
-    "main.9cc1285d.js.map": "/ahorcado-game/static/js/main.9cc1285d.js.map"
+    "main.css": "/ahorcado-game/build/static/css/main.c04eab7c.css",
+    "main.js": "/ahorcado-game/build/static/js/main.bb2c0326.js",
+    "static/media/el_ahorcado6.png": "/ahorcado-game/build/static/media/el_ahorcado6.e880a63a06467f2df387.png",
+    "static/media/el_ahorcado5.png": "/ahorcado-game/build/static/media/el_ahorcado5.29101eca0aae634c70c0.png",
+    "static/media/el_ahorcado4.png": "/ahorcado-game/build/static/media/el_ahorcado4.6cbbfc6a59bfe4321dc7.png",
+    "static/media/el_ahorcado3.png": "/ahorcado-game/build/static/media/el_ahorcado3.1b08c584d5aa7e658554.png",
+    "static/media/el_ahorcado2.png": "/ahorcado-game/build/static/media/el_ahorcado2.c3b35ddfc79a9b86b69e.png",
+    "static/media/el_ahorcado1.png": "/ahorcado-game/build/static/media/el_ahorcado1.af13960496d75fc667e1.png",
+    "index.html": "/ahorcado-game/build/index.html",
+    "main.c04eab7c.css.map": "/ahorcado-game/build/static/css/main.c04eab7c.css.map",
+    "main.bb2c0326.js.map": "/ahorcado-game/build/static/js/main.bb2c0326.js.map"
   },
   "entrypoints": [
     "static/css/main.c04eab7c.css",
-    "static/js/main.9cc1285d.js"
+    "static/js/main.bb2c0326.js"
   ]
 }
